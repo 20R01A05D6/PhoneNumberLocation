@@ -26,4 +26,4 @@ print(geo) : This line prints the geographic description for the phone number ob
 
 
 ## How to run the Script:
-    python phonenumberlocation.py
+    python Phone_Number.py
