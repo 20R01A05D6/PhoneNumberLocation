@@ -1,11 +1,13 @@
 # PhoneNumberLocation
 <!--Remove the below lines and add yours -->
-The script is mainly use to find the Phone Number details in different ways:It Prints
-1. Country code
+The script is mainly use to find the Phone Number details in different ways: It Prints
+1. Country Code
 2. Timezone
-3. SIM Card Network name
+3. SIM Card Network Name
 4. Country Name
 
+## Code Explaination
+<!--Remove the below lines and add yours -->
 import phonenumbers : This line imports the phonenumbers module, which provides functions and classes to parse, format, and validate phone numbers.
 
 from phonenumbers import timezone,geocoder,carrier :
