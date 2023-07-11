@@ -6,6 +6,7 @@ The script is mainly used to find the Phone Number details in different ways: It
 3. SIM Card Network Name
 4. Country Name
 
+
 ## Code Explaination
 <!--Remove the below lines and add yours -->
 import phonenumbers : This line imports the phonenumbers module, which provides functions and classes to parse, format, and validate phone numbers.
@@ -33,9 +34,12 @@ print(time) : This line prints the list of time zone names for the phone number 
 print(carr) : This line prints the name of the carrier for the phone number object, such as ‘Airtel’.
 print(geo) : This line prints the geographic description for the phone number object, such as ‘India’.
 
+
+
 ## Prerequisites
 <!--Remove the below lines and add yours -->
 You only need Python to run this script. You can visit [here](https://www.python.org/downloads/) to download Python.
+
 
 
 ## How to run the script
@@ -43,6 +47,7 @@ You only need Python to run this script. You can visit [here](https://www.python
 Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
     python Phone_Number.py
+
 
 
 ## Sample use of the script
