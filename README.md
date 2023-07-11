@@ -1,4 +1,11 @@
 # PhoneNumberLocation
+<!--Remove the below lines and add yours -->
+The script is mainly use to find the Phone Number details in different ways:It Prints
+1.Country code
+2.Timezone
+3.SIM Card Network name
+4.Country Name
+
 import phonenumbers : This line imports the phonenumbers module, which provides functions and classes to parse, format, and validate phone numbers.
 
 from phonenumbers import timezone,geocoder,carrier :
@@ -24,6 +31,20 @@ print(time) : This line prints the list of time zone names for the phone number 
 print(carr) : This line prints the name of the carrier for the phone number object, such as ‘Airtel’.
 print(geo) : This line prints the geographic description for the phone number object, such as ‘India’.
 
+## How to run the script
+<!--Remove the below lines and add yours -->
+Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
 
-## How to run the Script:
     python Phone_Number.py
+
+
+## Sample use of the script
+<!--Remove the below lines and add yours -->
+```
+$ python Phone_Number.py 
+   Enter Your Number with +__:+91 9876543210
+    Country Code: 91 National Number: 9876543210
+    ('Asia/Calcutta',)
+    Airtel
+    India
+```
