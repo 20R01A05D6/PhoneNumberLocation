@@ -1,6 +1,6 @@
 # PhoneNumberLocation
 <!--Remove the below lines and add yours -->
-The script is mainly use to find the Phone Number details in different ways: It Prints
+The script is mainly used to find the Phone Number details in different ways: It Prints
 1. Country Code
 2. Timezone
 3. SIM Card Network Name
