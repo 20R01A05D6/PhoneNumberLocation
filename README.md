@@ -33,6 +33,11 @@ print(time) : This line prints the list of time zone names for the phone number 
 print(carr) : This line prints the name of the carrier for the phone number object, such as ‘Airtel’.
 print(geo) : This line prints the geographic description for the phone number object, such as ‘India’.
 
+## Prerequisites
+<!--Remove the below lines and add yours -->
+You only need Python to run this script. You can visit [here](https://www.python.org/downloads/) to download Python.
+
+
 ## How to run the script
 <!--Remove the below lines and add yours -->
 Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command :
