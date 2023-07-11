@@ -23,3 +23,7 @@ print(phone) : This line prints the phone number object in a standard format, su
 print(time) : This line prints the list of time zone names for the phone number object, such as [‘Asia/Kolkata’].
 print(carr) : This line prints the name of the carrier for the phone number object, such as ‘Airtel’.
 print(geo) : This line prints the geographic description for the phone number object, such as ‘India’.
+
+
+## How to run the Script:
+    python phonenumberlocation.py
